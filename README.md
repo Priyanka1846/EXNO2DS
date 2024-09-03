@@ -1,4 +1,4 @@
-## EX.NO: 02
+# Ex.no: 2-EDA Analysis using Python
 
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
