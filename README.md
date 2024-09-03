@@ -1,12 +1,12 @@
 # Ex.no: 2-EDA Analysis using Python
 
-# AIM:
+## AIM:
 To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+## EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+## ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -132,5 +132,5 @@ sns.pairplot(df)
 ![image](https://github.com/user-attachments/assets/15fa219c-3369-4364-96f9-d6ce38ad5cf7)
 
 
-# RESULT:
+## RESULT:
 Thus the code has been executed successfully.
